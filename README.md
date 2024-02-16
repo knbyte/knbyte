@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @knbyte
-- 👀 I’m interested learning to program
+- 👀 I’m interested in learning to program
 - 🌱 I’m currently learning how the fuck C works
 - 📫 How to reach me ... I'd rather you didn't
 - 😄 Pronouns: Any work
