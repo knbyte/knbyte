@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @knbyte
 - 👀 I’m interested in learning to program
-- 🌱 I’m currently learning how the fuck C works
-- 📫 How to reach me ... I'd rather you didn't
+- 🌱 I’m currently learning the joys of programing in C
+- 📫 Contact information and more about me can be found in my [linktree](https://knbyte.github.io./).
 - 😄 Pronouns: Any work
 - ⚡ Fun fact: I'm in desperate need of a double choc coated tim tam at all times
 
